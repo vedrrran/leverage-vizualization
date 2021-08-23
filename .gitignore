@@ -1,0 +1,10 @@
+# venv related
+bin/
+etc/
+include/
+lib/
+pyvenv.cfg
+share/
+
+# misc
+.DS_Store
